@@ -16,7 +16,7 @@ To set up and execute tests:
 
 $ cd /Users/sebastiansalazar/svitlaTest/testSvitla
 
-$ cd npm install
+$ npm install
 
 $ npm run wdio
 
